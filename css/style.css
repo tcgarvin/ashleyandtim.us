@@ -106,7 +106,7 @@ hr{
 }
 
 .navbar-default .navbar-toggle {
-	border-color: #D32020;
+	border-color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -114,15 +114,15 @@ hr{
 }
 
 .navbar-toggle{
-	background:#cb1e08;
+	background:#3C90A3;
 }
 
 .navbar-toggle:hover{
-	background:#b41a06 !important;
+	background:#3C90A3 !important;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-	border-color: #e9331b;
+	border-color: #fff;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -249,7 +249,6 @@ hr{
   font-size:117px;
   line-height:140px;
   color:#444;
-
 }
 
 .about  p.about-para{
@@ -506,6 +505,14 @@ hr{
 		font-size:48px;
 		line-height:60px;
 	}
+
+    .about h1 {
+        font-size:85px;
+    }
+
+    .wedding h1 {
+        font-size: 80px;
+    }
 }
 
 /* Tablets */
