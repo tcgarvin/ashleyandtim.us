@@ -441,6 +441,14 @@ hr{
 	color:#ed4934;
 }
 
+.registry .registryintro {
+    margin-bottom:30px;
+    margin-top:20px;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+}
+
 /* Footer */
 
 .footer{
